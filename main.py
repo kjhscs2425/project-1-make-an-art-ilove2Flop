@@ -10,7 +10,7 @@ for _ in range(200):
 
 
 x = 2
-for _ in range(100):
+for _ in range(300):
     y = 2+x #Y has to be greater than x
     my_turtle.left(140) 
     my_turtle.forward(1+y) 
